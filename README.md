@@ -20,5 +20,7 @@ CS student, CO2026 @ Manchester Community College -> ??? -> B.S. Computer Scienc
 Interested in embedded development & working with CV/OCR
 
 if you want to get in touch:
+
 preferably, drop me a message on Discord: Hipster#1044
+
 or you can shoot me an email. ((kbdn) as y for affine, y = 3x+3)@2to12.org

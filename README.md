@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-CS student, CO2026 @ Manchester Community College -> ??? -> B.S. Computer Science
+CO26
 
 Interested in embedded development & working with CV/OCR
